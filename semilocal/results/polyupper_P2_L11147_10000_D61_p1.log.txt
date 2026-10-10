@@ -1,0 +1,6 @@
+P = 2, L_up = 11147/10000 = 1.114700, Legendre basis degrees 1..61 (odd f), 31 functions
+comb (u_n/a, w_n): [('[1.2436479 +/- 4.22e-8]', '[0.49012907 +/- 1.74e-9]')]
+max entry radius of rigorous matrix: [2.70e-435 +/- 3.62e-438]
+lambda_min(mid matrix) = -3.60762498685e-8
+ball-arithmetic Q_P(f_v) = [-3.60762498685478e-8 +/- 2.97e-24]   (||f_v||^2 = [1.00000000000 +/- 1e-16])
+RESULT: CERTIFIED NEGATIVE: Q_P not positive for supp f in [-L/2, L/2]   (30s)

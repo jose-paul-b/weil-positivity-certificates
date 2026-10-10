@@ -1,0 +1,28 @@
+{
+ "L": [
+  4,
+  5
+ ],
+ "T": [
+  200,
+  1
+ ],
+ "N": 200,
+ "parity": 0,
+ "lam_est": 1.0276895600519628e-17,
+ "log": [
+  "=== supp f \u2286 [\u22124/5, 4/5] (= \u00b10.800000; autocorrelation support 1.600000), EVEN sector, T = 200/1, N = 200 modes (orders 0..398)",
+  "prime powers in comb: [2, 4, 3];  A_L = [2.94197352522 +/- 3.63e-12];  \u03b2 = [0.513466774915 +/- 7.08e-14];  e\u00b7L\u00b7T/2 = 217.5",
+  "quadrature: 400 panels \u00d7 59 nodes, \u03c1 = [3.48680 +/- 3.78e-6], sup|\u03c8| on strip \u2264 [8.12472e+5 +/- 0.478], per-entry error \u2264 [3.60e-56 +/- 4.50e-59]",
+  "quadrature done in 23s",
+  "approximate \u03bb_min(A) \u2248 1.0277e-17   (largest 4.290)",
+  "verified Cholesky: \u03bc = 1.0267e-17, \u2016E\u2016_F \u2264 7.191e-54  \u21d2  \u03bb_min(A) \u2265 [1.0267e-17 +/- 3.82e-22]   (25s)",
+  "tail: S_D \u2264 [1.82e-215 +/- 1.08e-218], \u2016C_AD\u2016 \u2264 [3.03e-105 +/- 1.74e-108], \u2016C_DD\u2016 \u2264 [1.02e-212 +/- 2.21e-215], \u2016p_D\u2016\u00b2 \u2264 [4.79e-2297 +/- 3.19e-2300], coupling \u2264 [3.03e-105 +/- 1.74e-108]",
+  "RESULT: Q(f) \u2265 [1.02666e-17 +/- 1.88e-23] \u2016f\u2016\u00b2  for all real even f with supp f \u2286 [\u22124/5, 4/5]   ->  CERTIFIED   (total 49s)"
+ ],
+ "ok": true,
+ "lam_lower": "[1.0266618704919108500e-17 +/- 5.98e-38]",
+ "lamA": "[1.0266618704919108500e-17 +/- 5.98e-38]",
+ "eq": "[3.5955e-56 +/- 9.10e-62]",
+ "coupling": "[3.0317e-105 +/- 3.66e-110]"
+}

@@ -1,0 +1,28 @@
+{
+ "L": [
+  4,
+  5
+ ],
+ "T": [
+  200,
+  1
+ ],
+ "N": 200,
+ "parity": 1,
+ "lam_est": 1.1410525922540915e-14,
+ "log": [
+  "=== supp f \u2286 [\u22124/5, 4/5] (= \u00b10.800000; autocorrelation support 1.600000), ODD sector, T = 200/1, N = 200 modes (orders 1..399)",
+  "prime powers in comb: [2, 4, 3];  A_L = [2.94197352522 +/- 3.63e-12];  \u03b2 = [0.513466774915 +/- 7.08e-14];  e\u00b7L\u00b7T/2 = 217.5",
+  "quadrature: 400 panels \u00d7 59 nodes, \u03c1 = [3.48680 +/- 3.78e-6], sup|\u03c8| on strip \u2264 [8.12472e+5 +/- 0.478], per-entry error \u2264 [3.60e-56 +/- 4.50e-59]",
+  "quadrature done in 16s",
+  "approximate \u03bb_min(A) \u2248 1.1411e-14   (largest 3.793)",
+  "verified Cholesky: \u03bc = 1.1399e-14, \u2016E\u2016_F \u2264 7.191e-54  \u21d2  \u03bb_min(A) \u2265 [1.1399e-14 +/- 1.16e-19]   (8s)",
+  "tail: S_D \u2264 [7.24e-217 +/- 6.40e-221], \u2016C_AD\u2016 \u2264 [6.05e-106 +/- 1.70e-109], \u2016C_DD\u2016 \u2264 [4.07e-214 +/- 1.60e-217], \u2016p_D\u2016\u00b2 \u2264 [1.19e-2303 +/- 2.33e-2306], coupling \u2264 [6.05e-106 +/- 1.70e-109]",
+  "RESULT: Q(f) \u2265 [1.13991e-14 +/- 1.54e-20] \u2016f\u2016\u00b2  for all real odd f with supp f \u2286 [\u22124/5, 4/5]   ->  CERTIFIED   (total 24s)"
+ ],
+ "ok": true,
+ "lam_lower": "[1.1399115396618374143e-14 +/- 3.12e-35]",
+ "lamA": "[1.1399115396618374143e-14 +/- 3.12e-35]",
+ "eq": "[3.5955e-56 +/- 9.10e-62]",
+ "coupling": "[6.0483e-106 +/- 9.70e-112]"
+}

@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+# cache of exact Legendre autocorrelation polynomials written by semilocal/poly_upper.py (regenerated on demand)
+semilocal/hpoly_*.pkl

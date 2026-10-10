@@ -1,0 +1,32 @@
+{
+ "P": 2,
+ "L": [
+  557,
+  1000
+ ],
+ "T": [
+  1200,
+  1
+ ],
+ "N": 520,
+ "parity": 1,
+ "lam_est": 6.450220553871711e-07,
+ "log": [
+  "=== SEMILOCAL: comb restricted to primes p <= 2 (all powers)",
+  "=== supp f \u2286 [\u2212557/1000, 557/1000] (= \u00b10.557000; autocorrelation support 1.114000), ODD sector, T = 1200/1, N = 520 modes (orders 1..1039)",
+  "prime powers in comb: [2];  A_L = [0.980258143469 +/- 4.53e-13];  \u03b2 = [4.27110829256 +/- 4.87e-12];  e\u00b7L\u00b7T/2 = 908.4",
+  "(semilocal copy) quadrature working precision BPREC = 1612 bits",
+  "quadrature: 2400 panels \u00d7 60 nodes, \u03c1 = [3.48680 +/- 3.78e-6], sup|\u03c8| on strip \u2264 [8.12472e+5 +/- 0.478], per-entry error \u2264 [1.02e-56 +/- 2.83e-59]",
+  "quadrature done in 444s",
+  "(diagnostic) max entry radius of A: 1.017e-56;  max radius of C: 9.337e-75",
+  "approximate \u03bb_min(A) \u2248 6.4502e-07   (largest 5.724)",
+  "verified Cholesky: \u03bc = 6.4438e-07, \u2016E\u2016_F \u2264 5.289e-54  \u21d2  \u03bb_min(A) \u2265 [6.4438e-7 +/- 2.97e-12]   (383s)",
+  "tail: S_D \u2264 [1.91e-127 +/- 3.92e-130], \u2016C_AD\u2016 \u2264 [1.87e-60 +/- 3.73e-63], \u2016C_DD\u2016 \u2264 [7.77e-124 +/- 3.52e-127], \u2016p_D\u2016\u00b2 \u2264 [5.14e-7165 +/- 2.72e-7168], coupling \u2264 [1.87e-60 +/- 3.73e-63]",
+  "RESULT: Q(f) \u2265 [6.44377e-7 +/- 3.34e-14] \u2016f\u2016\u00b2  for all real odd f with supp f \u2286 [\u2212557/1000, 557/1000]   ->  CERTIFIED   (total 828s)"
+ ],
+ "ok": true,
+ "lam_lower": "[6.4437703333178389111e-7 +/- 4.21e-28]",
+ "lamA": "[6.4437703333178389111e-7 +/- 4.21e-28]",
+ "eq": "[1.0172e-56 +/- 2.07e-61]",
+ "coupling": "[1.8737e-60 +/- 2.32e-65]"
+}

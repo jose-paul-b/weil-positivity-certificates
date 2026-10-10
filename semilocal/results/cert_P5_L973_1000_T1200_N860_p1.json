@@ -1,0 +1,32 @@
+{
+ "P": 5,
+ "L": [
+  973,
+  1000
+ ],
+ "T": [
+  1200,
+  1
+ ],
+ "N": 860,
+ "parity": 1,
+ "lam_est": 1.3070153432685197e-24,
+ "log": [
+  "=== SEMILOCAL: comb restricted to primes p <= 5 (all powers)",
+  "=== supp f \u00e2\u0160\u2020 [\u00e2\u02c6\u2019973/1000, 973/1000] (= \u00c2\u00b10.973000; autocorrelation support 1.946000), ODD sector, T = 1200/1, N = 860 modes (orders 1..1719)",
+  "prime powers in comb: [2, 4, 3, 5];  A_L = [4.38149855633 +/- 8.22e-13];  \u00ce\u00b2 = [0.869867879703 +/- 4.09e-13];  e\u00c2\u00b7L\u00c2\u00b7T/2 = 1586.9",
+  "(semilocal copy) quadrature working precision BPREC = 2124 bits",
+  "quadrature: 2400 panels \u00c3\u2014 60 nodes, \u00cf\u0081 = [3.48680 +/- 3.78e-6], sup|\u00cf\u02c6| on strip \u00e2\u2030\u00a4 [8.12472e+5 +/- 0.478], per-entry error \u00e2\u2030\u00a4 [2.48e-56 +/- 1.50e-59]",
+  "quadrature done in 794s",
+  "(diagnostic) max entry radius of A: 2.479e-56;  max radius of C: 8.770e-75",
+  "approximate \u00ce\u00bb_min(A) \u00e2\u2030\u02c6 1.3070e-24   (largest 4.694)",
+  "verified Cholesky: \u00ce\u00bc = 1.3057e-24, \u00e2\u20ac\u2013E\u00e2\u20ac\u2013_F \u00e2\u2030\u00a4 2.132e-53  \u00e2\u2021\u2019  \u00ce\u00bb_min(A) \u00e2\u2030\u00a5 [1.3057e-24 +/- 8.33e-30]   (416s)",
+  "tail: S_D \u00e2\u2030\u00a4 [1.67e-125 +/- 3.46e-128], \u00e2\u20ac\u2013C_AD\u00e2\u20ac\u2013 \u00e2\u2030\u00a4 [2.31e-59 +/- 8.98e-63], \u00e2\u20ac\u2013C_DD\u00e2\u20ac\u2013 \u00e2\u2030\u00a4 [6.76e-122 +/- 2.66e-125], \u00e2\u20ac\u2013p_D\u00e2\u20ac\u2013\u00c2\u00b2 \u00e2\u2030\u00a4 [4.28e-11760 +/- 2.96e-11763], coupling \u00e2\u2030\u00a4 [2.31e-59 +/- 8.98e-63]",
+  "RESULT: Q(f) \u00e2\u2030\u00a5 [1.30571e-24 +/- 1.68e-30] \u00e2\u20ac\u2013f\u00e2\u20ac\u2013\u00c2\u00b2  for all real odd f with supp f \u00e2\u0160\u2020 [\u00e2\u02c6\u2019973/1000, 973/1000]   ->  CERTIFIED   (total 1212s)"
+ ],
+ "ok": true,
+ "lam_lower": "[1.3057083279252511545e-24 +/- 4.99e-45]",
+ "lamA": "[1.3057083279252511545e-24 +/- 4.99e-45]",
+ "eq": "[2.4785e-56 +/- 9.51e-63]",
+ "coupling": "[2.3109e-59 +/- 2.81e-65]"
+}

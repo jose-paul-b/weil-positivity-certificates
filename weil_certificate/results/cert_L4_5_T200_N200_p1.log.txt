@@ -1,0 +1,8 @@
+=== supp f ⊆ [−4/5, 4/5] (= ±0.800000; autocorrelation support 1.600000), ODD sector, T = 200/1, N = 200 modes (orders 1..399)
+prime powers in comb: [2, 4, 3];  A_L = [2.94197352522 +/- 3.63e-12];  β = [0.513466774915 +/- 7.08e-14];  e·L·T/2 = 217.5
+quadrature: 400 panels × 59 nodes, ρ = [3.48680 +/- 3.78e-6], sup|ψ| on strip ≤ [8.12472e+5 +/- 0.478], per-entry error ≤ [3.60e-56 +/- 4.50e-59]
+quadrature done in 16s
+approximate λ_min(A) ≈ 1.1411e-14   (largest 3.793)
+verified Cholesky: μ = 1.1399e-14, ‖E‖_F ≤ 7.191e-54  ⇒  λ_min(A) ≥ [1.1399e-14 +/- 1.16e-19]   (8s)
+tail: S_D ≤ [7.24e-217 +/- 6.40e-221], ‖C_AD‖ ≤ [6.05e-106 +/- 1.70e-109], ‖C_DD‖ ≤ [4.07e-214 +/- 1.60e-217], ‖p_D‖² ≤ [1.19e-2303 +/- 2.33e-2306], coupling ≤ [6.05e-106 +/- 1.70e-109]
+RESULT: Q(f) ≥ [1.13991e-14 +/- 1.54e-20] ‖f‖²  for all real odd f with supp f ⊆ [−4/5, 4/5]   ->  CERTIFIED   (total 24s)

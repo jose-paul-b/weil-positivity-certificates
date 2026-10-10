@@ -1,0 +1,8 @@
+=== supp f ⊆ [−4/5, 4/5] (= ±0.800000; autocorrelation support 1.600000), EVEN sector, T = 200/1, N = 200 modes (orders 0..398)
+prime powers in comb: [2, 4, 3];  A_L = [2.94197352522 +/- 3.63e-12];  β = [0.513466774915 +/- 7.08e-14];  e·L·T/2 = 217.5
+quadrature: 400 panels × 59 nodes, ρ = [3.48680 +/- 3.78e-6], sup|ψ| on strip ≤ [8.12472e+5 +/- 0.478], per-entry error ≤ [3.60e-56 +/- 4.50e-59]
+quadrature done in 23s
+approximate λ_min(A) ≈ 1.0277e-17   (largest 4.290)
+verified Cholesky: μ = 1.0267e-17, ‖E‖_F ≤ 7.191e-54  ⇒  λ_min(A) ≥ [1.0267e-17 +/- 3.82e-22]   (25s)
+tail: S_D ≤ [1.82e-215 +/- 1.08e-218], ‖C_AD‖ ≤ [3.03e-105 +/- 1.74e-108], ‖C_DD‖ ≤ [1.02e-212 +/- 2.21e-215], ‖p_D‖² ≤ [4.79e-2297 +/- 3.19e-2300], coupling ≤ [3.03e-105 +/- 1.74e-108]
+RESULT: Q(f) ≥ [1.02666e-17 +/- 1.88e-23] ‖f‖²  for all real even f with supp f ⊆ [−4/5, 4/5]   ->  CERTIFIED   (total 49s)

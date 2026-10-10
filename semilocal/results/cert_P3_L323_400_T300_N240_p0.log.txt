@@ -1,0 +1,11 @@
+=== SEMILOCAL: comb restricted to primes p <= 3 (all powers)
+=== supp f ⊆ [−323/400, 323/400] (= ±0.807500; autocorrelation support 1.615000), EVEN sector, T = 300/1, N = 240 modes (orders 0..478)
+prime powers in comb: [2, 4, 3];  A_L = [2.94197352522 +/- 3.63e-12];  β = [0.920598549690 +/- 9.83e-14];  e·L·T/2 = 329.3
+(semilocal copy) quadrature working precision BPREC = 1100 bits
+quadrature: 600 panels × 59 nodes, ρ = [3.48680 +/- 3.78e-6], sup|ψ| on strip ≤ [8.12472e+5 +/- 0.478], per-entry error ≤ [5.48e-56 +/- 3.42e-59]
+quadrature done in 19s
+(diagnostic) max entry radius of A: 5.477e-56;  max radius of C: 4.202e-75
+approximate λ_min(A) ≈ 7.2652e-18   (largest 4.756)
+verified Cholesky: μ = 7.2579e-18, ‖E‖_F ≤ 1.314e-53  ⇒  λ_min(A) ≥ [7.2579e-18 +/- 1.5e-25]   (29s)
+tail: S_D ≤ [5.78e-161 +/- 1.84e-164], ‖C_AD‖ ≤ [8.52e-78 +/- 1.21e-81], ‖C_DD‖ ≤ [5.10e-158 +/- 4.50e-161], ‖p_D‖² ≤ [6.39e-2828 +/- 2.10e-2831], coupling ≤ [8.52e-78 +/- 1.21e-81]
+RESULT: Q(f) ≥ [7.25790e-18 +/- 1.25e-25] ‖f‖²  for all real even f with supp f ⊆ [−323/400, 323/400]   ->  CERTIFIED   (total 49s)
